@@ -7,7 +7,7 @@ Rose Chen is a London-based writer and designer.
 
 ### Human-computer interaction
 
-Human-computer interaction (HCI) is the study of how human users interact with computer technology - and vice versa. Crucial to this study are the related fields of behaviourial science and design.
+Human-computer interaction (HCI) is the study of how human users interact with computer technology - and vice versa. Crucial to this study are the related fields of behavioural science and design.
 
 'Computer technology' describes an ever-expanding class of objects including, but not limited to: laptops, phones, tablets, and smart speakers. 
 
