@@ -13,14 +13,14 @@ Human-computer interaction (HCI) is the study of how human users interact with c
 
 ### Purpose of writing
 
-Those of us who have more or less unrestricted access to technology spend much of the day interacting with machines. This journal aims to break down these experiences through the lens of HCI. 
+Those of us who have more or less unrestricted access to technology spend much of the day interacting with machines. User experience is just life experience - work, entertainment, and relationships are all conducted at least in part through technology. 
 
-The assimilation of computers into our daily lives is now normal and irrevocable. User experience is just life experience - work, entertainment, and relationships are all conducted at least in part through machines. This journal uses granular user interactions as springboards for exploring what life experience looks like more generally. It aims to be more mindful of what we do mindlessly. 
+This journal breaks down these experiences through the lens of HCI, and uses granular user interactions as springboards for exploring what modern life looks like more generally. It aims to be more mindful of what we do mindlessly. 
 
 ### The digital divide
 
 The digital divide is the disparity in access to technology between different groups. It describes the gap not only in infrastructure, but also in digital skills. 
 
-Although it is a relatively new kind of social inequality, it runs along existing lines: economic background, disability, race. It is undeniable that computers are becoming increasingly enmeshed in the fabric of modern life. We need to consider the impact that this is having on global inequality and the psychology of privilege. 
+Although it is a relatively new kind of social inequality, it runs along existing lines: economic background, disability, race. As computers become increasingly enmeshed in the fabric of the world, we need to consider the impact of the digital divide on global inequality and the psychology of privilege. 
 
 ![Symbolism](symbolism.png)
