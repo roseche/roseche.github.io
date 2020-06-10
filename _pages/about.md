@@ -3,14 +3,11 @@ layout: page
 title: About
 ---
 
-Test new tab link 
-<a href="https://en.wikipedia.org/wiki/Digital_divide" target="_blank">Digital divide</a>
-
 Rose Chen is a London-based writer and designer. 
 
 ### Human-computer interaction
 
-[Human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction) (HCI) is the study of how human users interact with computer technology - and vice versa. Crucial to this study are the related fields of behavioural science and design.
+<a href="https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction" target="_blank">Human-computer interaction</a> (HCI) is the study of how human users interact with computer technology - and vice versa. Crucial to this study are the related fields of behavioural science and design.
 
 'Computer technology' describes an ever-expanding class of objects including, but not limited to: laptops, phones, tablets, and smart speakers. 
 
@@ -22,7 +19,7 @@ This journal breaks down these experiences through the lens of HCI, and uses gra
 
 ### The digital divide
 
-[The digital divide](https://en.wikipedia.org/wiki/Digital_divide) is the disparity in access to technology between different groups. It describes the gap not only in infrastructure, but also in digital skills. 
+<a href="https://en.wikipedia.org/wiki/Digital_divide" target="_blank">The digital divide</a> is the disparity in access to technology between different groups. It describes the gap not only in infrastructure, but also in digital skills. 
 
 Although it is a relatively new kind of social inequality, it runs along existing lines: economic background, disability, race. As computers become increasingly enmeshed in the fabric of the world, we need to consider the impact of the digital divide on global inequality and the psychology of privilege. 
 
