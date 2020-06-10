@@ -3,6 +3,9 @@ layout: page
 title: About
 ---
 
+Test new tab link 
+<a href="https://en.wikipedia.org/wiki/Digital_divide" target="_blank">Digital divide</a>
+
 Rose Chen is a London-based writer and designer. 
 
 ### Human-computer interaction
