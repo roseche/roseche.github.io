@@ -1,0 +1,40 @@
+I"<p>The Amazon website is not pretty. Nor is it user-friendly. For a behemoth online retailer, this might seem surprising at first.</p>
+
+<hr />
+
+<h3 id="design-review-amazon-vs-waterstones">Design review: Amazon vs. Waterstones</h3>
+
+<p>The Amazon site flouts several basic design principles. It has poor visual hierarchy, for example. This means that the important elements on the page are not given due emphasis. When shopping for a book, the title and price of the book are two of the most important pieces of information. But in the screenshot shown below, you can see that the text size of the product title is smaller than the text size of the publication date, and that the price of the product is listed in small text sizes in boxes that are placed out of the way. These two key pieces of information are not appropriately emphasised. Contrast the way in which Waterstones displays the book on its site: both title and price can be viewed at a glance.</p>
+
+<p><strong>Amazon product page, 09 Sept. 2020:</strong></p>
+
+<p><img src="/assets/images/amazon-screenshot-1.png" alt="Screenshot of Amazon product page" /></p>
+
+<p><strong>Waterstones product page, 09 Sept. 2020:</strong></p>
+
+<p><img src="/assets/images/waterstones-screenshot-1.png" alt="Screenshot of Waterstones product page" /></p>
+
+<p>On the Amazon page, competing elements are set besides each other. The page looked cluttered. The synopsis of the book is placed underneath four lines of information about delivery and collection; there is no title to distinguish these two topics from each other, nor is there the appropriate spacing. Again, contrast the way in which Waterstones displays the book’s synopsis: in a separate box, with a title and key summary presented in bold.</p>
+
+<p><strong>Amazon synopsis, 09 Sept. 2020:</strong></p>
+
+<p><img src="/assets/images/amazon-screenshot-2.png" alt="Screenshot of Amazon product page: synopsis" /></p>
+
+<p><strong>Waterstones synopsis, 09 Sept. 2020:</strong></p>
+
+<p><img src="/assets/images/waterstones-screenshot-2.png" alt="Screenshot of Waterstones product page: synopsis" /></p>
+
+<h3 id="whats-really-on-offer">What’s really on offer?</h3>
+
+<p>The Waterstones website is more user-friendly. But Amazon knows what it is good at. Notice that Amazon has knocked 20% off the recommended retail price of the book - making it 20% cheaper than what Waterstones are offering. Notice too that Amazon offers free (‘FREE’) delivery, with the option to add premium or even same-day delivery with Amazon Prime. User experience is an end-to-end operation; it goes beyond simply navigating the site. If a customer can receive an item quickly and cheaply, how much will it matter to them that the page that they bought it from looked a bit messy?</p>
+
+<p><strong>Amazon’s key differentiators: price and delivery:</strong></p>
+
+<p><img src="/assets/images/amazon-screenshot-3.png" alt="Screenshot of Amazon product page: key differentiators" /></p>
+
+<h3 id="the-amazon-aesthetic">The Amazon Aesthetic</h3>
+
+<p>I would be very surprised if the slapdash aesthetic of Amazon’s retail site was anything but extremely deliberate. But I can only speculate as to the motivations behind the choices that Amazon’s designers have made. Perhaps the product pages are designed to be confusing so that customers are driven to look around more, diverting their attention to sponsored ads around the page. Perhaps too the cluttered design gives the page a cheap feeling that promotes the image of Amazon as a bargain-shop brand. Amazon employs thoughtful designers, who are more than capable of designing elegant websites; see their <a href="https://amazon.design/">design community</a> and <a href="https://aws.amazon.com/">AWS</a> sites for evidence. The retail pages must be clumsy-looking by design.</p>
+
+<p>Across the page, distracting elements are introduced at the expense of design best practice - which favours beauty and minimalism. But the relationship between ‘good’ design and business outcomes is not always straightforward. In other words: you can’t always judge a book by its cover.</p>
+:ET
