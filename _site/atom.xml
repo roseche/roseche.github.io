@@ -4,13 +4,50 @@
  <title>Rose Chen</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-09-09T16:35:41+01:00</updated>
+ <updated>2020-09-15T17:12:18+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>The Impatience Phenomenon</title>
+   <link href="http://localhost:4000/2020/09/15/the-impatience-phenomenon"/>
+   <updated>2020-09-15T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2020/09/15/the-impatience-phenomenon</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/street-lights-speed.png&quot; alt=&quot;Long exposure picture of street lights&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If good things come to those who wait, what comes to those who don’t?&lt;/p&gt;
+
+&lt;h3 id=&quot;the-need-for-speed&quot;&gt;The need for speed&lt;/h3&gt;
+
+&lt;p&gt;An &lt;a href=&quot;https://www.bbc.co.uk/news/business-37100091&quot; target=&quot;_blank&quot;&gt;article by the BBC&lt;/a&gt; notes that over half of us would not even wait three seconds for a site to load before giving up and going somewhere else. Three seconds is not very long at all. It is absurd to imagine that the average person would refuse to wait three seconds for more traditional services: a supermarket checkout, for example, or a bus. And yet, when it comes to a website, over half of us would not wait.&lt;/p&gt;
+
+&lt;p&gt;Our collective impatience has a tangible business impact. The same article notes that online sales by retailer Nordstrom fell by 11% when its website response time was half a second slower - that tens of millions of dollars were lost over half a second of difference. Customers can’t be bothered to wait for slow sites to load, so they go elsewhere.&lt;/p&gt;
+
+&lt;p&gt;If customers want fast sites, that fast sites is what companies will build. Those with slow sites are literally left behind.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-did-this-happen&quot;&gt;How did this happen?&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘The last best experience anyone has anywhere becomes the minimum expectation for the experience they want everywhere.’ - Bridget van Kranlingen&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We don’t expect buses to come in under three seconds, because buses that we have waited for in the past have mostly taken longer. So we would probably not give up on a bus just because it hadn’t come in three seconds. But online, users are not used to waiting for longer than three seconds - they are exposed to sites that barely take any time at all to load. A fast-loading site is their minimum expectation, and as a result they are not willing to wait for a three-second site.&lt;/p&gt;
+
+&lt;p&gt;Development teams, in their effort to meet user demand, get caught in a vicious cycle. As they improve site performance to meet user expectation, user expectation gets higher and higher - meaning that their sites have to load even faster in order to retain users. The more they improve performance, the more users expect of them.&lt;/p&gt;
+
+&lt;h3 id=&quot;going-offline&quot;&gt;Going offline&lt;/h3&gt;
+
+&lt;p&gt;Speed and the expectation of speed are rising in the real world - we can see this most clearly when we look at hybrid online/offline services. A taxi that we order through an app takes only two minutes to arrive; a product that we order through a website is delivered the next day, or even the same day. Any longer, and it’s not what we’re used to - we expect better. Impatience, accelerated by technology, permeates our psyche.&lt;/p&gt;
+
+&lt;p&gt;There is something particular about online impatience; a &lt;a href=&quot;https://web.dev/why-speed-matters/&quot; target=&quot;_blank&quot;&gt;post by Google developers&lt;/a&gt; references a study that shows that stress incurred during loading time is greater than waiting in a checkout line at a physical shop. But as the division between online and offline becomes increasing blurred in our everyday lives, we have to wonder what the impact will be on our ability to exercise patience.&lt;/p&gt;
+
+&lt;p&gt;Waiting is frustrating. But patience is a good thing; it teaches us to make mindful choices, to identify what we think is worth waiting for. But it is not patience, but impatience, to which digital technology panders. And perhaps impatience is like a muscle - the more you exercise it, the stronger it gets.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>The Amazon Experience</title>
